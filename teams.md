@@ -401,8 +401,8 @@ Happy Healty Snack Jamming and coding hard!!!
     - Andy Cary (@andycary)
     - Hays Stanford(@hays)
 * Seeking Teammates: Yes
-* [Project URL](https://github.com/your-profile/your-project-name)
-* Project Name (ok to say tbd and update later)
+* [GitHub URL](https://github.com/HaysS/marketgraph)
+* [Live Project Site](https://marketgraph.netlify.com/)
 
 ***
 
